@@ -97,6 +97,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Next Big What - http://nextbigwhat.com/
 * Nibletz - http://www.nibletz.com/submit-startup
 * On the App - http://ontheapp.com/about/
+* Owler - https://www.owler.com/
 * Paggu - http://www.paggu.com/submit-your-startup/
 * pFind - http://www.pfind.com/submit
 * Pineapple - http://pineapple.io/resources/new
