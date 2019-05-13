@@ -82,6 +82,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Index.co - https://index.co/startup
 * Just Gone Live - http://www.justgonelive.com/add-listing
 * Killer Startups - http://killerstartups.com/submit-startup/
+* Kinpen - https://info.kinpen.me/
 * Land-book - https://land-book.com/guidelines
 * Launching Next - http://www.launchingnext.com/submit/
 * Launch List - https://launchlister.com/submit-startup
